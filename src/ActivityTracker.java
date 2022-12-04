@@ -6,6 +6,7 @@ public class ActivityTracker {
     private int totalMinutes;
 
     //constructor
+
     public ActivityTracker(int goal) {
         this.goal = goal;
         MaxMinutes = 0;

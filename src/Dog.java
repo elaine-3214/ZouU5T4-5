@@ -22,6 +22,7 @@ public class Dog {
         return age;
     }
 
+
     public void setAge(int newAge) {
         age = newAge;
     }

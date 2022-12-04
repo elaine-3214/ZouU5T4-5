@@ -6,6 +6,7 @@ public class Main {
         System.out.print("Enter your goal in minutes: ");
         int goal = scan.nextInt();
 
+
         ActivityTracker temp = new ActivityTracker(goal);
 
         boolean done = false;
